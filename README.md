@@ -39,6 +39,9 @@ https://buy.polar.sh/polar_cl_O4VAFwUcew1m5QSjAFdrrUhaKPGgrQWAa3Y3y0Nwwoi
 
 Use the free previews first if you only need one checklist. Buy the bundle when you want all three paid kits plus the start guide, buyer-routing guide, manifest, and one-day rollout workflow in one download.
 
+Feedback and template requests:
+https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview/issues/1
+
 ## Responsible Use
 
 Use these tools to reduce ambiguity and protect maintainer time. Do not use them to accuse contributors, imply purchase is required for review, or make unsafe bounty/payment claims.
