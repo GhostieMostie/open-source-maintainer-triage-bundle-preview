@@ -34,7 +34,10 @@ After:
 
 Launch price: `$129`.
 
-Checkout link will be added after Polar product setup.
+Buy the full bundle on Polar:
+https://buy.polar.sh/polar_cl_O4VAFwUcew1m5QSjAFdrrUhaKPGgrQWAa3Y3y0Nwwoi
+
+Use the free previews first if you only need one checklist. Buy the bundle when you want all three paid kits plus the start guide, buyer-routing guide, manifest, and one-day rollout workflow in one download.
 
 ## Responsible Use
 
