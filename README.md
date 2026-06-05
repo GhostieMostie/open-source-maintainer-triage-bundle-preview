@@ -1,46 +1,47 @@
 # Open-Source Maintainer Triage Bundle
 
-A public preview for a three-kit maintainer operating system: PR intake, CI triage, and review-ready evidence packaging.
+A public preview for a receipts-first maintainer workbench: PR intake, CI triage, bounty-board filtering, and review-ready evidence packaging.
 
 ## Choose By Pain
 
 | If this is the pain | Start here | What you get |
 | --- | --- | --- |
-| AI-generated or agent-authored PRs lack evidence | [Agent PR Gatekeeper preview](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Free AI PR checklist, risk scorecard, sample brief |
+| Low-context PRs lack evidence | [Agent PR Gatekeeper preview](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Free intake checklist, risk scorecard, sample brief |
 | CI is red and nobody knows why | [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Free CI failure classifier and triage checklist |
 | A bounty/fix needs clearer evidence before review or payment | [CI and QA Kit preview](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Free review router and evidence handoff shape |
 | A bounty board is noisy and you need to avoid bad public claims | [Free bounty-board safety scan](free-bounty-board-safety-scan.md) | Closed-issue, crowded-PR, payment-route, and human-voice checks |
+| A review, merge, rerun, or payment ask needs one clean page | [Free Receipts Desk](free-receipts-desk.md) | Facts, evidence, unknowns, boundaries, and next action |
 
 ## What The Full Bundle Adds
 
 The full bundle includes all three paid kits:
 
-- Agent PR Gatekeeper v1.1
+- Agent PR Gatekeeper v1.2
 - Flaky CI War Room Kit v1.1
 - Open-Source Maintainer CI and QA Kit v1.3
 
-It also adds a bundle start guide, buyer routing guide, manifest, and one-day maintainer rollout workflow.
+It also adds a bundle start guide, buyer routing guide, manifest, one-day maintainer rollout workflow, bounty-board scanner, and Receipts Desk generator.
 
-The paid bundle now includes a no-dependency Opire reward scanner that pulls live rewards, cross-checks GitHub issue status, and prints a Markdown review table before anyone posts `/try`.
+The paid bundle includes a no-dependency Opire reward scanner that pulls live rewards, cross-checks GitHub issue status, and prints a Markdown review table before anyone posts `/try`. It also includes a Receipts Desk generator for turning a messy PR, CI failure, or bounty attempt into one reviewer-safe handoff.
 
 ## Before / After
 
 Before:
 
-> This PR looks AI-generated and CI is red. I do not know what to review.
+> CI is red, the scope is unclear, and I do not know what evidence to trust.
 
 After:
 
-> Please add the linked issue, validation commands, CI classification, scope/risk notes, and human-validation note. We will review once the evidence is present and the CI failure is classified.
+> Please add the linked issue, validation commands, CI classification, scope/risk notes, what is not being claimed, and the smallest next action. Then we can review the facts instead of reconstructing them.
 
 ## Full Bundle
 
 Launch price: `$129`.
 
-Buy the full bundle on Polar:
+Full bundle on Polar:
 https://buy.polar.sh/polar_cl_O4VAFwUcew1m5QSjAFdrrUhaKPGgrQWAa3Y3y0Nwwoi
 
-Use the free previews first if you only need one checklist. Buy the bundle when you want all three paid kits plus the start guide, buyer-routing guide, manifest, and one-day rollout workflow in one download.
+Use the free previews first if you only need one checklist. The paid bundle is for teams that want the whole receipts-first workflow in one download.
 
 Feedback and template requests:
 https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview/issues/1
