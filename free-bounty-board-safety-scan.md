@@ -7,7 +7,7 @@ A quick filter for paid GitHub issue boards before you post `/try`, open a PR, o
 - Issue is closed but the bounty page still shows money.
 - Repository is archived, missing, or not accepting PRs.
 - Several open PRs already target the same issue.
-- Maintainers have warned about spam, bot PRs, or AI-generated attempts.
+- Maintainers have warned about spam, automated PRs, or low-evidence attempts.
 - Reward is token-only, social-stake, amountless, or "glory-only."
 - Your intended comment mainly says you are interested instead of adding useful context.
 
