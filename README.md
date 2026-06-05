@@ -9,6 +9,7 @@ A public preview for a three-kit maintainer operating system: PR intake, CI tria
 | AI-generated or agent-authored PRs lack evidence | [Agent PR Gatekeeper preview](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Free AI PR checklist, risk scorecard, sample brief |
 | CI is red and nobody knows why | [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Free CI failure classifier and triage checklist |
 | A bounty/fix needs clearer evidence before review or payment | [CI and QA Kit preview](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Free review router and evidence handoff shape |
+| A bounty board is noisy and you need to avoid bad public claims | [Free bounty-board safety scan](free-bounty-board-safety-scan.md) | Closed-issue, crowded-PR, payment-route, and human-voice checks |
 
 ## What The Full Bundle Adds
 
@@ -19,6 +20,8 @@ The full bundle includes all three paid kits:
 - Open-Source Maintainer CI and QA Kit v1.3
 
 It also adds a bundle start guide, buyer routing guide, manifest, and one-day maintainer rollout workflow.
+
+The paid bundle now includes a no-dependency Opire reward scanner that pulls live rewards, cross-checks GitHub issue status, and prints a Markdown review table before anyone posts `/try`.
 
 ## Before / After
 
