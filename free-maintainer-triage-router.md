@@ -8,7 +8,7 @@ Use this when a pull request or issue is noisy and you need to decide what to as
 - [ ] Missing reproduction or before/after behavior.
 - [ ] Missing validation commands.
 - [ ] CI failed but the failure class is unclear.
-- [ ] AI assistance was used but human validation is unclear.
+- [ ] The change appears generated or low-context and human validation is unclear.
 - [ ] Bounty/payment language appears before evidence is ready.
 - [ ] Scope is too broad for a focused review.
 
@@ -16,7 +16,7 @@ Use this when a pull request or issue is noisy and you need to decide what to as
 
 | Main blocker | Route |
 | --- | --- |
-| AI/agent contribution evidence is missing | Agent PR Gatekeeper |
+| Contribution evidence is missing | Agent PR Gatekeeper |
 | CI failure needs classification | Flaky CI War Room Kit |
 | Review/payment handoff needs packaging | Open-Source Maintainer CI and QA Kit |
 
@@ -30,7 +30,7 @@ Thanks for the PR. Before deeper review, please add:
 - validation commands and results
 - current CI status and failure classification, if red
 - scope/risk notes
-- human-validation note if AI assistance materially shaped the change
+- human-validation note for generated or tool-assisted changes
 
 Once those are present, maintainers can review behavior instead of reconstructing context.
 ```
