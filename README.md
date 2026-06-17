@@ -10,6 +10,7 @@ A public preview for a three-kit maintainer operating system: PR intake, CI tria
 | CI is red and nobody knows why | [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Free CI failure classifier and triage checklist |
 | A bounty/fix needs clearer evidence before review or payment | [CI and QA Kit preview](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Free review router and evidence handoff shape |
 | A bounty board is noisy and you need to avoid bad public claims | [Free bounty-board safety scan](free-bounty-board-safety-scan.md) | Closed-issue, crowded-PR, payment-route, and human-voice checks |
+| One bounty issue has too many claim PRs | [Bounty Queue Triage Sprint](bounty-queue-triage-sprint.md) | Claim buckets, overlap notes, validation signals, and suggested review order |
 | Existing reward lanes are going stale | Deposit Radar in the full bundle | Ranked monitor/wait/fix/clarify table for active PRs and bounty issues |
 
 ## What The Full Bundle Adds
