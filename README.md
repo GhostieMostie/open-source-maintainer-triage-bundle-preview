@@ -10,6 +10,7 @@ A public preview for Maximus Evidence Desk, a receipts-first maintainer workbenc
 | CI is red and nobody knows why | [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Free CI failure classifier and triage checklist |
 | A bounty/fix needs clearer evidence before review or payment | [CI and QA Kit preview](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Free review router and evidence handoff shape |
 | A bounty board is noisy and you need to avoid bad public claims | [Free bounty-board safety scan](free-bounty-board-safety-scan.md) | Closed-issue, crowded-PR, payment-route, and human-voice checks |
+| A crowded thread might need cleanup instead of another PR | [Free Signal Over Noise Radar](free-signal-over-noise-radar.md) | Decide whether to implement, offer evidence cleanup, or stay silent |
 | One bounty issue has too many claim PRs | [Bounty Queue Triage Sprint](bounty-queue-triage-sprint.md) | Claim buckets, overlap notes, validation signals, and suggested review order |
 | Existing reward lanes are going stale | Deposit Radar in the full bundle | Ranked monitor/wait/fix/clarify table for active PRs and bounty issues |
 | A review, merge, rerun, or payment ask needs one clean page | [Free Receipts Desk](free-receipts-desk.md) | Facts, evidence, unknowns, boundaries, and next action |
@@ -23,9 +24,9 @@ The full bundle includes all three paid kits:
 - Flaky CI War Room Kit v1.1
 - Open-Source Maintainer CI and QA Kit v1.3
 
-It also adds a bundle start guide, buyer routing guide, manifest, one-day maintainer rollout workflow, bounty-board scanner, Receipts Desk generator, and Maximus Evidence Desk Sprint workflow.
+It also adds a bundle start guide, buyer routing guide, manifest, one-day maintainer rollout workflow, bounty-board scanner, Signal Over Noise Radar, Receipts Desk generator, and Maximus Evidence Desk Sprint workflow.
 
-The paid bundle includes a no-dependency Opire reward scanner that pulls live rewards, cross-checks GitHub issue status, and prints a Markdown review table before anyone posts `/try`. It also includes Deposit Radar for stale active lanes, plus a Receipts Desk generator for turning a messy PR, CI failure, or bounty attempt into one reviewer-safe handoff.
+The paid bundle includes a no-dependency Opire reward scanner that pulls live rewards, cross-checks GitHub issue status, and prints a Markdown review table before anyone posts `/try`. It also includes Deposit Radar for stale active lanes, Signal Over Noise Radar for crowded bounty threads, plus a Receipts Desk generator for turning a messy PR, CI failure, or bounty attempt into one reviewer-safe handoff.
 
 ## Before / After
 
